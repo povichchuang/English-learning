@@ -11,9 +11,9 @@ This is a personal English learning repository for recording vocabulary and phra
 ```
 English-learning/
 ├── vocabulary.md      # English vocabulary notes
-├── phrases.md         # English phrases collection
-├── CLAUDE.md         # This file - guidance for AI assistants
-└── .git/             # Version control
+├── phrases.md        # English phrases collection
+├── CLAUDE.md        # This file - guidance for AI assistants
+└── .git/            # Version control
 ```
 
 ## How I Work
@@ -26,9 +26,7 @@ This is NOT a coding project. You should help me:
 ## Adding Phrases Format
 
 ```markdown
-## [Topic/Category]
-
-### [Phrase] ([pos.])
+### [Phrase] ([pos.]) (YYYY-MM-DD)
 
 **Meaning**: [Chinese translation]
 
@@ -40,16 +38,26 @@ This is NOT a coding project. You should help me:
 ## Adding Vocabulary Format
 
 ```markdown
-## [Topic/Category]
-
-### [Word] ([pos.])
+### [Word] ([pos.]) (YYYY-MM-DD)
 
 **Meaning**: [Chinese translation]
+
+**Synonyms**: [comma-separated synonyms]
+
+**Antonyms**: [comma-separated antonyms]
 
 **Example**:
 - [English example 1]
 - [English example 2]
 ```
+
+## Format Rules
+
+1. No categories - flat list only
+2. New entries go at the TOP (latest first)
+3. Each entry must have date in format (YYYY-MM-DD)
+4. Include synonyms and antonyms when helpful
+5. Each entry should have 3-4 examples
 
 ## Part of Speech Labels (词性)
 
@@ -90,11 +98,12 @@ No Cursor or Copilot rules found in this repository.
 Your primary job is to help me learn English by:
 1. Recording phrases I provide with examples
 2. Recording vocabulary I provide with meanings and examples
-3. Organizing them by topic/category
+3. Adding synonyms and antonyms
 4. Keeping the files clean and readable
 
 Don't:
 - Add code or build tools
 - Modify git configuration
 - Create unnecessary files
+- Add categories
 - Assume this is a coding project

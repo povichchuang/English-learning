@@ -1,10 +1,66 @@
 # Useful vocabulary
 
-## Quality/Problems
+### Definitely (adv.) (2026-04-11)
 
-### Deterioration (n.)
+**Meaning**: 確實地 / 肯定地 / 一定 (without doubt; certainly)
+
+**Synonyms**: certainly, surely, absolutely, for sure, without doubt
+
+**Antonyms**: possibly, perhaps, maybe, uncertainly
+
+**Example**:
+- I'll definitely be there tomorrow.
+- She definitely passed the exam.
+- This is definitely the right choice.
+- He will definitely succeed.
+
+### Significant (adj.) (2026-04-11)
+
+**Meaning**: 重要的 / 顯著的 / 有意義的 (important; notable; having meaning)
+
+**Synonyms**: important, notable, considerable, meaningful, substantial
+
+**Antonyms**: insignificant, trivial, minor, unimportant
+
+**Example**:
+- This is a significant change in policy.
+- The discovery was significant for the field.
+- There has been a significant improvement in sales.
+- The meeting played a significant role in the decision.
+
+### Full-Time Employment (n.) (2026-04-11)
+
+**Meaning**: 全職工作 / 全職 employment (work where an employee works regular, fixed hours)
+
+**Synonyms**: full-time job, permanent position, full-time work
+
+**Antonyms**: part-time employment, part-time job, casual work
+
+**Example**:
+- She was offered full-time employment after completing her internship.
+- Full-time employment typically comes with benefits.
+- He's looking for full-time employment in the tech industry.
+- The company provides full-time employment with health insurance.
+
+### Rather Than (conj./prep.) (2026-04-11)
+
+**Meaning**: 而不是 (used to introduce a less preferred alternative)
+
+**Synonyms**: instead of, as opposed to, in contrast to
+
+**Example**:
+- I'd prefer tea rather than coffee.
+- She chose to stay rather than leave.
+- It's a quality issue rather than a quantity problem.
+- We should focus on quality rather than speed.
+
+### Deterioration (n.) (2026-04-11)
 
 **Meaning**: 惡化 / 退化 / 變壞 (the process of becoming progressively worse)
+
+**Synonyms**: decline, worsening, degradation, decay
+
+**Antonyms**: improvement, recovery, enhancement
 
 **Example**:
 - The deterioration of the building's condition is a serious concern.
@@ -12,11 +68,27 @@
 - We noticed a sudden deterioration in performance.
 - The drug aims to slow the deterioration of memory.
 
-## Events
+### Drastically (adv.) (2026-04-11)
 
-### Ceremony (n.)
+**Meaning**: 劇烈地 / 大幅地 / 徹底地 (to a very great extent; radically)
+
+**Synonyms**: dramatically, radically, significantly, considerably, substantially
+
+**Antonyms**: slightly, marginally, minimally
+
+**Example**:
+- The population has decreased drastically over the past decade.
+- The new policy changed the industry drastically.
+- Her health improved drastically after the treatment.
+- We need to reduce costs drastically to stay competitive.
+
+### Ceremony (n.) (2026-04-11)
 
 **Meaning**: 典禮 / 儀式 (a formal event or ritual, often to celebrate or commemorate something)
+
+**Synonyms**: ritual, observance, celebration, formal
+
+**Antonyms**: informal gathering
 
 **Example**:
 - The opening ceremony was held at the stadium.
@@ -24,9 +96,13 @@
 - The wedding ceremony will take place at the church.
 - The award ceremony celebrates outstanding achievements in film.
 
-### Rigorous (adj.)
+### Rigorous (adj.) (2026-04-11)
 
 **Meaning**: 嚴格的 / 嚴謹的 / 縝密的 (very thorough, careful, and strict)
+
+**Synonyms**: strict, thorough, demanding, stringent, meticulous
+
+**Antonyms**: lenient, lax, easy, superficial
 
 **Example**:
 - The training program is very rigorous.
@@ -34,11 +110,27 @@
 - She follows a rigorous daily routine.
 - The research underwent rigorous peer review.
 
-## Technology
+### Underlined (adj.) (2026-04-11)
 
-### Schema (n.)
+**Meaning**: 加下劃線的 / 帶底線的 (having a line drawn beneath text)
+
+**Synonyms**: underscored, marked, highlighted
+
+**Antonyms**: plain, unformatted
+
+**Example**:
+- The underlined words are the key terms to remember.
+- Please make the title bold and underlined.
+- The active links are usually underlined in blue.
+- Important dates in the document are underlined for emphasis.
+
+### Schema (n.) (2026-04-11)
 
 **Meaning**: 結構綱要 / 綱要 / 架構 (a structure that defines how data is organized and related)
+
+**Synonyms**: blueprint, framework, structure, outline, design
+
+**Antonyms**: chaos, disorder
 
 **Example**:
 - The database schema shows how all the tables are connected.
@@ -46,9 +138,13 @@
 - JSON schema is used to validate the structure of JSON data.
 - The API schema defines all available endpoints and their parameters.
 
-### Template (n.)
+### Template (n.) (2026-04-11)
 
 **Meaning**: 模板 / 範本 (a pre-designed format or structure that can be reused)
+
+**Synonyms**: model, pattern, mold, format, layout
+
+**Antonyms**: original, custom, unique
 
 **Example**:
 - Please use this template to submit your report.
