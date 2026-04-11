@@ -1,5 +1,19 @@
 # Useful vocabulary
 
+### Vessel (n.) (2026-04-11)
+
+**Meaning**: 船隻 / 容器 / 血管 (a ship or boat; a container for holding liquid; a tube in the body that carries liquid)
+
+**Synonyms**: ship, boat, container, receptacle, craft, tube
+
+**Antonyms**: (none commonly used)
+
+**Example**:
+- The fishing vessel returned to port at dawn.
+- She poured the water into a glass vessel.
+- Blood vessels carry blood throughout the body.
+- The ancient vessel was recovered from the sea floor.
+
 ### Definitely (adv.) (2026-04-11)
 
 **Meaning**: 確實地 / 肯定地 / 一定 (without doubt; certainly)
