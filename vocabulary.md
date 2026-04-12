@@ -1,5 +1,33 @@
 # Useful vocabulary
 
+### Inherit (v.) (2026-04-12)
+
+**Meaning**: 繼承 / 遺傳 (to receive property, money, or title from someone who has died; to receive traits or characteristics from parents)
+
+**Synonyms**: receive, get, come into, be left
+
+**Antonyms**: give, donate, bestow
+
+**Example**:
+- She inherited her mother's beautiful eyes.
+- He inherited a fortune from his uncle.
+- The property was inherited by his three children.
+- Some diseases can be inherited from parents.
+
+### Inheritance (n.) (2026-04-12)
+
+**Meaning**: 遺產 / 繼承 (property or money received from someone who has died; the process of receiving traits from parents)
+
+**Synonyms**: legacy, heritage, birthright
+
+**Antonyms**: donation, gift
+
+**Example**:
+- The house is part of his inheritance.
+- She received a large inheritance from her grandfather.
+- Genetic inheritance determines many of our physical traits.
+- The company passed to him through inheritance.
+
 ### Vessel (n.) (2026-04-11)
 
 **Meaning**: 船隻 / 容器 / 血管 (a ship or boat; a container for holding liquid; a tube in the body that carries liquid)
