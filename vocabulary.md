@@ -1,5 +1,19 @@
 # Useful vocabulary
 
+### Vault (n./v.) (2026-04-18)
+
+**Meaning**: 金庫 / 保險庫 / 拱頂 / 跳躍 (a secure room for storing valuables; an arched ceiling; to jump over something)
+
+**Synonyms**: safe, strongbox, tomb, leap, jump
+
+**Antonyms**: (none commonly used)
+
+**Example**:
+- The bank's vault contains millions of dollars in cash.
+- The cathedral has a beautiful vaulted ceiling.
+- She vaulted over the fence with ease.
+- The gymnast performed a perfect vault.
+
 ### Inherit (v.) (2026-04-12)
 
 **Meaning**: 繼承 / 遺傳 (to receive property, money, or title from someone who has died; to receive traits or characteristics from parents)
