@@ -1,3 +1,17 @@
+### garbled / garble (v.) (2026-04-25)
+
+**Meaning**: 搞亂 / 語音辨識錯誤 (to make a message or sound difficult to understand; to report or reproduce something in a confused or distorted way)
+
+**Synonyms**: distort, jumble, mangle, mix up, confuse
+
+**Antonyms**: clarify, explain, articulate
+
+**Example**:
+- I think voice-to-text garbled what I just said.
+- The poor connection garbled the audio during the call.
+- Don't paraphrase too much or you'll garble the original meaning.
+- The radio signal was so weak it completely garbled the transmission.
+
 ### Perfectionist (n.) (2026-04-21)
 
 **Meaning**: 完美主義者 (a person who refuses to accept any standard short of perfection)
