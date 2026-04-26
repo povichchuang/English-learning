@@ -40,6 +40,91 @@
 - She told a brief anecdote to break the ice.
 - His speech included several touching anecdotes.
 
+### Backfire (v.) / Backfired (past) (2026-04-26)
+
+**Meaning**: 適得其反 / 事與願違 (to have the opposite effect from what was intended; to succeed in causing harm to someone when you were trying to cause them harm)
+
+**Synonyms**: rebound, recoil, boomerang, miscarriage
+
+**Antonyms**: succeed, achieve, accomplish
+
+**Example**:
+- The marketing campaign backfired, resulting in a public backlash.
+- His attempt to cheat backfired when he was caught red-handed.
+- The plan to sabotage their project backfired and helped them succeed instead.
+- The new policy backfired, making employees less motivated.
+
+### Strategic (adj.) (2026-04-26)
+
+**Meaning**: 戰略性的 / 策略的 (serving as a particular plan or action; carefully considered or calculated)
+
+**Synonyms**: tactical, calculated, purposeful, deliberate, planned
+
+**Antonyms**: impulsive, reckless, haphazard, accidental
+
+**Example**:
+- The company made a strategic decision to expand into Asian markets.
+- Her strategic thinking helped the team win the competition.
+- The general planned a strategic attack at dawn.
+- Investing in education is a strategic move for the country's future.
+
+### Doom er (n.) (2026-04-26)
+
+**Meaning**: 絕望者 / 悲觀主义者 (a person who is pessimistic about the future, often believing that disaster is inevitable)
+
+**Synonyms**: pessimist, cynic, defeatist, nihilist
+
+**Antonyms**: optimist, idealist, hopeful, believer
+
+**Example**:
+- He's such a doomer who thinks technology will destroy humanity.
+- The doomer subculture has grown online among young people.
+- Don't be such a doomer - there are still many good things to look forward to.
+- His doomer attitude made him avoid trying new experiences.
+
+### In the sense (phrase) (2026-04-26)
+
+**Meaning**: 在這個意義上 / 從這個角度來說 (in this particular aspect or context; regarding the way something is defined or understood)
+
+**Synonyms**: in this context, essentially, in this regard
+
+**Antonyms**: in fact, actually, literally
+
+**Example**:
+- In the sense of energy consumption, it's the most efficient model.
+- You could say he's a leader, in the sense that he inspires others.
+- In the sense of quality, these products are unmatched.
+- I don't mean it literally - in the sense of purpose, it's meaningful.
+
+### Throw sand in the gear (idiom) (2026-04-26)
+
+**Meaning**: 搗亂 / 製造障礙 (to intentionally obstruct or delay someone's work or progress; to create difficulties)
+
+**Synonyms**: sabotage, obstruct, hinder, impede, frustrate
+
+**Antonyms**: facilitate, assist, enable, support
+
+**Example**:
+- Some employees are throwing sand in the gears of the new system.
+- The union threatened to throw sand in the gears of management's plan.
+- Stop throwing sand in the gears - let's work together.
+- Political opponents keep throwing sand in the gears of the legislation.
+
+### Hyperscaler (n.) (2026-04-26)
+
+**Meaning**: 超大型雲服務提供商 (a cloud computing service provider that can rapidly scale up or down its services according to demand, typically referring to companies like AWS, Azure, and Google Cloud)
+
+**Synonyms**: cloud provider, cloud service provider, data center giant
+
+**Antonyms**: (none - specific term)
+
+**Example**:
+- AWS is the largest hyperscaler in the world.
+- The hyperscalers are competing fiercely for AI infrastructure contracts.
+- Building a data center is the primary business model of hyperscalers.
+- The hyperscalers have transformed how businesses operate their IT infrastructure.
+
+
 # Useful vocabulary
 
 ### Vault (n./v.) (2026-04-18)

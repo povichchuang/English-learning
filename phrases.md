@@ -8,6 +8,67 @@
 - It's a tiny detail, like the number of grooves on screws, but it matters.
 - She checked the exact number of grooves on screws for the new design.
 
+### Strategic decision / move (phrase) (2026-04-26)
+
+**Meaning**: 戰略性決定 / 策略性舉措 (a carefully planned action taken with long-term goals in mind)
+
+**Example**:
+- The company made a strategic decision to acquire the startup.
+- It was a strategic move to delay the product launch.
+- They took a strategic approach to market expansion.
+- Her strategic thinking saved the project from failure.
+
+### Doomer culture / Doomer attitude (phrase) (2026-04-26)
+
+**Meaning**: 絕望主義文化 / 悲觀態度 (a mindset or social movement characterized by pessimism about the future, often related to technology, environment, or society)
+
+**Example**:
+- He spends all day in doomer culture forums.
+- Their doomer attitude prevents them from seeing opportunities.
+- The doomer culture has grown among young professionals.
+- Don't get caught up in the doomer mindset.
+
+### In the sense that (phrase) (2026-04-26)
+
+**Meaning**: 從...的意義上來說 / 在...這個層面上 (used to explain the specific way or context in which something is true)
+
+**Example**:
+- He's a leader, in the sense that he inspires others.
+- It's beneficial, in the sense that it saves time.
+- You could say it's innovative, in the sense that it's different.
+- The term is accurate, in the sense that it describes the function.
+
+### Throw sand in the gears / gears of progress (phrase) (2026-04-26)
+
+**Meaning**: 搗亂 / 阻礙進度 / 製造障礙 (to deliberately obstruct or slow down progress or work)
+
+**Example**:
+- Some critics are throwing sand in the gears of progress.
+- Political gridlock keeps throwing sand in the gears of reform.
+- Stop throwing sand in the gears - let's move forward.
+- They're throwing sand in the gears of the new system.
+
+### Strategic backfire / strategic plan backfires (phrase) (2026-04-26)
+
+**Meaning**: 戰略失敗 / 策略適得其反 (when a carefully planned action produces the opposite result)
+
+**Example**:
+- Their strategic backfire cost them the contract.
+- The plan backfired strategically, giving them more publicity.
+- Don't expect your strategic move to backfire.
+- A strategic backfire turned into a learning opportunity.
+
+### Hyperscaler competition (phrase) (2026-04-26)
+
+**Meaning**: 超大型雲服務商之間的競爭 (the fierce competition among major cloud service providers like AWS, Azure, and Google Cloud)
+
+**Example**:
+- Hyperscaler competition drives down cloud prices.
+- The hyperscaler race is intensifying in AI infrastructure.
+- Hyperscaler partnerships are key to enterprise cloud adoption.
+- Understanding hyperscaler competition helps with vendor selection.
+
+
 # Good English phrases
 
 ### I won't let it go / I won't let myself off (phrase) (2026-04-11)
