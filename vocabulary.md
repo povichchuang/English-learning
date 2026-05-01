@@ -1,4 +1,552 @@
+### Andréj Karpathy Interview: "I Don't Want To Do Anything" (2026-05-01)
 
+**Video**: [YouTube - Andréj Karpathy on AI, Vibe Coding & The Future of Programming](https://www.youtube.com/watch?v=96jN2OCOfLs)
+
+---
+
+## Key Vocabulary from Video
+
+### 1. Co-found (v.) (2026-05-01)
+
+**Meaning**: 共同創立 (to be one of the founders of something together with others)
+
+**Synonyms**: establish jointly, start together, set up together
+
+**Antonyms**: disband, close, dissolve
+
+**Example**:
+- He helped co-found OpenAI in 2015.
+- She co-founded a tech startup with two other engineers.
+- They co-founded the company while still in university.
+- The organization was co-founded by two Nobel laureates.
+
+---
+
+### 2. Complex technical shifts (phr.) (2026-05-01)
+
+**Meaning**: 複雜的技術轉變 (significant changes in technology that are difficult to understand or explain)
+
+**Synonyms**: technological transitions, advanced changes, sophisticated transformations
+
+**Antonyms**: simple updates, minor changes, basic updates
+
+**Example**:
+- Andréj has a gift for making complex technical shifts feel accessible.
+- The industry is experiencing complex technical shifts in AI development.
+- Understanding these complex technical shifts requires deep knowledge.
+- He explained the complex technical shifts in machine learning.
+
+---
+
+### 3. Accessible (adj.) (2026-05-01)
+
+**Meaning**: 易懂的、親民的 (easy to understand or approach; able to be reached or used by everyone)
+
+**Synonyms**: understandable, approachable, comprehensible, user-friendly
+
+**Antonyms**: inaccessible, confusing, complicated, esoteric
+
+**Example**:
+- He made complex topics feel accessible to everyone.
+- The new tutorial makes machine learning more accessible to beginners.
+- Her explanations are always accessible to non-experts.
+- Education should be accessible to all people regardless of background.
+
+---
+
+### 4. Inevitable (adj.) (2026-05-01)
+
+**Meaning**: 必然的、不可避免的 (unable to be avoided or prevented)
+
+**Synonyms**: unavoidable, certain, destined, unquestionable
+
+**Antonyms**: avoidable, uncertain, possible, questionable
+
+**Example**:
+- The transition to AI feels inevitable in today's world.
+- Change is inevitable in any growing organization.
+- The technological revolution was inevitable given the pace of innovation.
+- Many experts believe climate action is now inevitable.
+
+---
+
+### 5. Trust the system (phr.) (2026-05-01)
+
+**Meaning**: 信任系統 (to rely on a system without constantly checking or correcting it)
+
+**Synonyms**: have confidence in the system, rely on the system, have faith in the process
+
+**Antonyms**: second-guess the system, constantly check the system, micromanage
+
+**Example**:
+- After using AI for coding, he started to trust the system more.
+- You need to trust the system when working with automated tools.
+- Learning to trust the system is a major shift in how we work.
+- Once you trust the system, your productivity increases dramatically.
+
+---
+
+### 6. Vibe coding (n. phr.) (2026-05-01)
+
+**Meaning**: 感覺式編程（用 AI 輔助編程，不詳細控制細節，憑感覺進行）(coding by giving AI rough instructions and trusting it without detailed control)
+
+**Alternative**: AI-assisted coding, vibe programming
+
+**Antonyms**: traditional coding, meticulous coding, detail-oriented coding
+
+**Example**:
+- Andréj coined the term "vibe coding" to describe working with AI.
+- Vibe coding allows you to focus on ideas rather than syntax.
+- Many developers now use vibe coding for prototyping.
+- The shift to vibe coding changes how we think about programming.
+
+---
+
+### 7. Software 1.0 / 2.0 / 3.0 (n. phr.) (2026-05-01)
+
+**Meaning**: 軟體 1.0/2.0/3.0（軟體發展的三個階段：1.0 是人寫程式碼，2.0 是訓練模型，3.0 是用提示工程）
+
+**Definition**:
+- **Software 1.0**: Writing code explicitly
+- **Software 2.0**: Training neural networks with datasets
+- **Software 3.0**: Prompting and working with LLMs
+
+**Example**:
+- We're transitioning from software 2.0 to software 3.0.
+- Software 1.0 required writing every line of code.
+- Software 2.0 was about creating datasets and training models.
+- In software 3.0, programming becomes about prompting and context.
+
+---
+
+### 8. Prompting (n. v.) (2026-05-01)
+
+**Meaning**: 提示工程（向 AI 系統發送指令或問題）(giving instructions or questions to an AI system)
+
+**Synonyms**: prompting, instructing, querying, directing
+
+**Antonyms**: coding, programming explicitly, writing code
+
+**Example**:
+- In software 3.0, programming turns to prompting and context.
+- Learning effective prompting is now a crucial skill.
+- Good prompts can produce better results than bad prompts.
+- The future of programming is more about prompting than typing.
+
+---
+
+### 9. Jagged (adj.) (2026-05-01)
+
+**Meaning**: 崎嶇的、不平滑的（AI 能力在不同領域表現不均）(having sharp variations; inconsistent or uneven in capability)
+
+**Synonyms**: uneven, inconsistent, variable, spiky, irregular
+
+**Antonyms**: smooth, consistent, uniform, steady, balanced
+
+**Example**:
+- AI capabilities are jagged, excelling at some tasks but failing at others.
+- The AI shows jagged intelligence patterns.
+- These models have jagged areas of strength and weakness.
+- Understanding jagged intelligence helps us use AI better.
+
+---
+
+### 10. Peak in capability (phr.) (2026-05-01)
+
+**Meaning**: 在某領域達到巔峰 (to reach maximum ability in a particular area)
+
+**Synonyms**: excel in, shine at, master, specialize in
+
+**Antonyms**: stagnate, decline, weaken, deteriorate
+
+**Example**:
+- AI models really peak in capability in verifiable domains.
+- The system peaks in capability when dealing with code.
+- Different models peak in capability at different tasks.
+- This is where AI really peaks in capability.
+
+---
+
+### 11. Adjacent (adj.) (2026-05-01)
+
+**Meaning**: 相關的、鄰近的 (closely related; connected; nearby)
+
+**Synonyms**: related, associated, connected, relevant, parallel
+
+**Antonyms**: unrelated, disconnected, irrelevant, distant
+
+**Example**:
+- AI excels in math and code and adjacent fields.
+- The success in coding led to adjacent improvements in science.
+- Many skills are adjacent to programming but not programming itself.
+- This knowledge is adjacent to the main topic.
+
+---
+
+### 12. Stagnate (v.) (2026-05-01)
+
+**Meaning**: 停滯、停滯不前 (to cease developing or progressing; to become inactive)
+
+**Synonyms**: stop, halt, freeze, remain static, plateau
+
+**Antonyms**: progress, advance, develop, improve, grow
+
+**Example**:
+- AI capabilities stagnate when not in verifiable domains.
+- Without new data, the model begins to stagnate.
+- Innovation cannot stagnate in a competitive market.
+- The technology would stagnate without continued research.
+
+---
+
+### 13. Rough around the edges (idiom) (2026-05-01)
+
+**Meaning**: 有些不完美、有待改進 (not completely polished; having minor flaws or imperfections)
+
+**Synonyms**: unpolished, incomplete, rough, uneven, unrefined
+
+**Antonyms**: polished, refined, perfect, flawless, complete
+
+**Example**:
+- The model is rough around the edges in non-technical areas.
+- The first version is rough around the edges but functional.
+- His skills are rough around the edges but improving quickly.
+- This early system is rough around the edges but shows promise.
+
+---
+
+### 14. State-of-the-art (adj.) (2026-05-01)
+
+**Meaning**: 最先進的 (the most recent stage in the development of something; the best currently available)
+
+**Synonyms**: cutting-edge, modern, advanced, leading, frontier
+
+**Antonyms**: outdated, obsolete, old-fashioned, archaic
+
+**Example**:
+- State-of-the-art models will tell you to walk 50 meters.
+- This is state-of-the-art technology in AI development.
+- The state-of-the-art model achieved record-breaking results.
+- We're using state-of-the-art language models.
+
+---
+
+### 15. Patch (v.) (2026-05-01)
+
+**Meaning**: 修復、修補 (to fix or repair something that is broken or damaged)
+
+**Synonyms**: fix, correct, repair, resolve, mend
+
+**Antonyms**: break, damage, worsen, corrupt
+
+**Example**:
+- The models now patch this issue I think.
+- Engineers work to patch security vulnerabilities quickly.
+- The software update will patch several known bugs.
+- They released a patch to fix the critical error.
+
+---
+
+### 16. Simultaneously (adv.) (2026-05-01)
+
+**Meaning**: 同時地 (happening at the same time)
+
+**Synonyms**: concurrently, at the same time, together, in parallel
+
+**Antonyms**: sequentially, one after another, successively, alternatively
+
+**Example**:
+- The AI can simultaneously refactor code and find vulnerabilities.
+- She is managing two projects simultaneously.
+- The system handles multiple tasks simultaneously.
+- We can learn and apply knowledge simultaneously.
+
+---
+
+### 17. Refactor (v.) (2026-05-01)
+
+**Meaning**: 重構（改進程式碼結構而不改變其外部行為）(to restructure existing code without changing its external behavior)
+
+**Synonyms**: restructure, reorganize, rework, improve, optimize
+
+**Antonyms**: degrade, worsen, complicate, corrupt
+
+**Example**:
+- AI can help refactor a 100,000 line codebase efficiently.
+- We need to refactor the legacy code before the new features.
+- The team is working to refactor the entire system.
+- Refactoring improved the code quality significantly.
+
+---
+
+### 18. Zero-day vulnerabilities (n. phr.) (2026-05-01)
+
+**Meaning**: 零日漏洞（未被發現和修復的安全漏洞）(security flaws that are unknown to the vendor and unpatched)
+
+**Synonyms**: zero-day exploits, unknown vulnerabilities, unpatched security flaws
+
+**Antonyms**: known vulnerabilities, patched security issues
+
+**Example**:
+- AI can help find zero-day vulnerabilities in large codebases.
+- Companies pay for zero-day vulnerabilities to discover them first.
+- Zero-day vulnerabilities are a major concern for cybersecurity.
+- The research exposed several zero-day vulnerabilities.
+
+---
+
+### 19. Insane (adj.) (2026-05-01)
+
+**Meaning**: 瘋狂的、不可思議的 (extremely bad or exceptionally good; absurd or shocking)
+
+**Synonyms**: unbelievable, outrageous, shocking, extreme, wild
+
+**Antonyms**: reasonable, normal, sensible, typical
+
+**Example**:
+- It's insane that the AI tells you to walk to a car wash 50 meters away.
+- The speed of AI development is absolutely insane.
+- This result is insane - better than we expected.
+- It's insane how much AI can do these days.
+
+---
+
+### 20. Raising the floor (phr.) (2026-05-01)
+
+**Meaning**: 提高門檻（讓更多人能夠做某事）(to improve the minimum level of capability or achievement)
+
+**Synonyms**: elevating the baseline, lifting the minimum, improving accessibility
+
+**Antonyms**: lowering the bar, reducing standards, making harder
+
+**Example**:
+- Vibe coding is about raising the floor for everyone.
+- This tool is raising the floor for non-programmers.
+- Education should focus on raising the floor for all students.
+- AI is raising the floor for creative work.
+
+---
+
+### 21. Agentic engineering (n. phr.) (2026-05-01)
+
+**Meaning**: 智能代理工程（專業級使用 AI 代理進行工程開發）(engineering discipline that coordinates AI agents to improve speed without sacrificing quality)
+
+**Synonyms**: agent-based engineering, AI agent engineering
+
+**Antonyms**: traditional engineering, manual engineering
+
+**Example**:
+- Agentic engineering is about preserving quality bar while using agents.
+- The future of software development is agentic engineering.
+- Agentic engineering requires new skills and approaches.
+- This is the realm of agentic engineering.
+
+---
+
+### 22. Quality bar (n. phr.) (2026-05-01)
+
+**Meaning**: 品質標準（對產品或服務質量要求的基準）(the standard of quality that must be maintained)
+
+**Synonyms**: quality standard, quality threshold, quality requirement
+
+**Antonyms**: low standards, minimum quality
+
+**Example**:
+- Agentic engineering is about preserving the quality bar.
+- We must maintain the quality bar even when moving fast.
+- The quality bar for professional software is very high.
+- Don't let speed compromise the quality bar.
+
+---
+
+### 23. Professional software (n. phr.) (2026-05-01)
+
+**Meaning**: 專業級軟體（高品質、高標準的商業級軟體）(software built for professional use with high quality standards)
+
+**Synonyms**: enterprise software, production software, commercial software
+
+**Antonyms**: hobby software, experimental code, prototype
+
+**Example**:
+- Professional software must not have vulnerabilities.
+- Building professional software requires careful planning.
+- The team is working on professional software for enterprise clients.
+- Professional software needs to be robust and secure.
+
+---
+
+### 24. Magnified (adj./v.) (2026-05-01)
+
+**Meaning**: 放大的、極大的 (greatly increased in size, importance, or intensity)
+
+**Synonyms**: amplified, enhanced, increased, multiplied, intensified
+
+**Antonyms**: reduced, diminished, decreased, minimized
+
+**Example**:
+- The productivity gains from AI are magnified for skilled users.
+- This effect is magnified when you use multiple agents.
+- The impact of small changes is magnified in software teams.
+- His success was magnified by the media attention.
+
+---
+
+### 25. Intern entities (n. phr.) (2026-05-01)
+
+**Meaning**: 實習生般的存在（AI 代理像實習生一樣，聰明但有缺陷，需要指導）(AI agents that behave like interns - capable but need human oversight)
+
+**Synonyms**: AI interns, digital interns, agent workforce
+
+**Antonyms**: autonomous systems, fully independent agents
+
+**Example**:
+- Agents are kind of like these intern entities.
+- You still have to be in charge of the intern entities.
+- Think of AI agents as highly capable interns.
+- The human directs the intern entities while they do the work.
+
+---
+
+### 26. Aesthetics (n.) (2026-05-01)
+
+**Meaning**: 美學、品味（關於美和藝術的判斷）(the appreciation of beauty; the look and feel of something)
+
+**Synonyms**: beauty, style, design, appearance, visual appeal
+
+**Antonyms**: ugliness, plainness, lack of style
+
+**Example**:
+- You still have to be in charge of the aesthetics in AI-generated designs.
+- The aesthetics of the interface matter a lot to users.
+- She has a keen sense of aesthetics in design.
+- AI struggles with human aesthetics.
+
+---
+
+### 27. Judgment (n.) (2026-05-01)
+
+**Meaning**: 判斷力、判斷 (the ability to make considered decisions or form opinions)
+
+**Synonyms**: discernment, wisdom, reasoning, assessment, evaluation
+
+**Antonyms**: poor judgment, indecision, impulsiveness
+
+**Example**:
+- Human judgment is still crucial when working with AI.
+- Good judgment is more valuable than technical skills sometimes.
+- The system can't replace human judgment in complex decisions.
+- Her judgment in hiring was excellent.
+
+---
+
+### 28. Taste (n.) (2026-05-01)
+
+**Meaning**: 品味、審美（對美或品質的能力）(the ability to appreciate quality and beauty in design, art, etc.)
+
+**Synonyms**: discernment, sensitivity, appreciation, style
+
+**Antonyms**: lack of taste, poor taste, insensitivity
+
+**Example**:
+- Taste is what separates good AI users from great ones.
+- The designer's taste showed in every detail.
+- Good taste in interfaces makes products successful.
+- AI needs human taste to create beautiful results.
+
+---
+
+### 29. Oversight (n.) (2026-05-01)
+
+**Meaning**: 監督、管理（the act of watching and checking something is done correctly）(supervision; careful monitoring of a process or activity)
+
+**Synonyms**: supervision, monitoring, oversight, management, control
+
+**Antonyms**: neglect, lack of supervision,放任
+
+**Example**:
+- You need a little bit of oversight when using AI agents.
+- Human oversight is still required for important decisions.
+- The project needs proper oversight to succeed.
+- Financial oversight prevents fraud and errors.
+
+---
+
+### 30. Outsource your thinking (phr.) (2026-05-01)
+
+**Meaning**: 外包你的思考（把思考過程交給 AI 或他人）(delegating the thinking process to AI or others)
+
+**Synonyms**: transfer thinking, delegate cognition, AI reasoning
+
+**Antonyms**: think for yourself, maintain mental ownership
+
+**Example**:
+- You can outsource your thinking but not your understanding.
+- Many people are outsourcing their thinking to search engines.
+- Outsource your thinking but stay engaged.
+- AI lets us outsource thinking, not understanding.
+
+---
+
+### 31. Outsource your understanding (phr.) (2026-05-01)
+
+**Meaning**: 外包你的理解（無法真正實現的概念 - 理解必須自己完成）(the process of truly comprehending something that cannot be delegated)
+
+**Key Quote**: "You can outsource your thinking but you can't outsource your understanding."
+
+**Example**:
+- You can't outsource your understanding of the core concepts.
+- Understanding is the bottleneck that remains human.
+- Outsource your understanding completely and you lose the ability to direct.
+- The key insight: you can't outsource your understanding.
+
+---
+
+## Summary of Key Concepts
+
+### 🎯 Vibe Coding
+Coding by giving AI rough instructions and trusting it with minimal control. Focuses on ideas, not syntax.
+
+### 🎯 Agentic Engineering  
+Professional engineering that coordinates AI agents (like interns) while maintaining quality standards.
+
+### 🎯 Jagged Intelligence
+AI excels in some areas (math, code) but struggles unexpectedly in others - irregular capability.
+
+### 🎯 Software 3.0
+Programming paradigm where prompting and context replace traditional coding. LLMs become the interpreter.
+
+### 🎯 Verifiability
+AI automates faster in domains where outputs can be verified (code, math) vs. subjective areas.
+
+### 🎯 Key Insight
+"The ceiling is high but you remain in charge of taste, judgment, and understanding."
+
+---
+
+## Timeline with Timestamps (from video)
+
+- **00:00** - Introduction with Andréj Karpathy
+- **02:15** - Never feeling more behind as a programmer
+- **04:30** - Software 1.0 / 2.0 / 3.0 paradigm shift
+- **08:45** - Why AI capabilities are "jagged"
+- **10:20** - Verifiability and reinforcement learning
+- **13:30** - Advice for founders in the AI era
+- **15:45** - Vibe coding vs. Agentic engineering
+- **17:18** - How different generations use AI for coding
+- **19:30** - Human skills that remain valuable (aesthetics, judgment, taste)
+- **22:15** - Taste and judgment in the AI era
+- **23:33** - Jagged intelligence: animals vs. ghosts
+- **25:18** - Living in an agent-native world
+- **27:45** - Education and what remains worth learning
+- **29:33** - Closing thoughts
+
+---
+
+*Added to vocabulary.md on 2026-05-01*
+
+File unchanged since last read. The content from the earlier read_file result in this conversation is still current — refer to that instead of re-reading.
+
+---
 
 ### Japanese Spot Names - Hokkaido Tour Vocabulary (2026-05-01)
 
@@ -111,8 +659,6 @@
 - Day 3: Romantic Otaru Canal walk with glass museums
 
 ---
-
-## Specific Attractions & Spots
 
 ### 5. Lake Toya (洞爺湖) (2026-05-01)
 
@@ -365,7 +911,7 @@
 
 ---
 
-### 15. Mitsui Outlet Park Sapporo (三井OUTLET購物中心) (2026-05-01)
+### 15. Mitsui Outlet Park Sapporo (三井 OUTLET 購物中心) (2026-05-01)
 
 **Meaning**: 三井購物中心 / 三井購物中心 (large outlet mall near Sapporo)
 
@@ -373,7 +919,7 @@
 
 **English Name**: Mitsui Outlet Park Sapporo
 
-**Chinese Name**: 三井OUTLET購物中心
+**Chinese Name**: 三井 OUTLET 購物中心
 
 **Alternative Names**: Mitsui Outlet, Sapporo Outlet
 
@@ -490,7 +1036,7 @@
 **Category**: Business/Resort Hotel
 
 **Tour Context**:
-- Days 3-4: Alternative accommodation option
+- Day 3-4: Alternative accommodation option
 
 ---
 
@@ -498,628 +1044,20 @@
 
 **Meaning**: 札幌星野度假村 (luxury resort in Hokkaido)
 
-**Japanese Pronunciation**: Hoshinoya Sapporo
+**Japanese Pronunciation**: Sapporo Hoshinoya
 
 **English Name**: Hoshinoya Sapporo
 
 **Chinese Name**: 札幌星野度假村
 
-**Alternative Names**: Hoshinoya Sapporo Resort
+**Alternative Names**: Hoshinoya Hotel Sapporo
 
 **Category**: Luxury Resort
 
 **Tour Context**:
-- Days 3-4: Alternative accommodation option
+- Alternative luxury option in Sapporo
 
 ---
 
-## Transportation (Flight Details)
-
-### 22. Taipei Taoyuan International Airport (桃園國際機場) (2026-05-01)
-
-**Meaning**: 桃園國際機場 (main airport in Taiwan from which we depart)
-
-**Japanese Pronunciation**: Tōyuān Guójì Jīchǎng
-
-**English Name**: Taipei Taoyuan International Airport
-
-**Chinese Name**: 桃園國際機場
-
-**Alternative Names**: Taoyuan Airport, TPE Airport
-
-**Airport Code**: TPE
-
-**Tour Context**:
-- Day 1: Depart from Taipei Taoyuan Airport
-
----
-
-### 23. Starlux Airlines (星宇航空) (2026-05-01)
-
-**Meaning**: 星宇航空 (Taiwanese airline with modern fleet)
-
-**Japanese Pronunciation**: Xīngyǔ Hángkōng
-
-**English Name**: Starlux Airlines
-
-**Chinese Name**: 星宇航空
-
-**Airport Code**: JX
-
-**Flight Number**: JX850
-
-**Tour Context**:
-- Option A: Starlux JX850, 10:05 departure, 15:10 arrival
-
----
-
-### 24. EVA Air (長榮航空) (2026-05-01)
-
-**Meaning**: 長榮航空 (Taiwanese airline, popular for international flights)
-
-**Japanese Pronunciation**: Chángróng Hángkōng
-
-**English Name**: EVA Air
-
-**Chinese Name**: 長榮航空
-
-**Airport Code**: BR
-
-**Flight Number**: BR116
-
-**Tour Context**:
-- Option B: EVA Air BR116, 10:10 departure, 15:00 arrival
-
----
-
-## Summary Table of Tour Spots
-
-| Day | Morning | Afternoon | Evening |
-|-----|---------|-----------|---------|
-| **Day 1** | Flight to Hokkaido | Goryokaku Park | Hakodate Night View |
-| **Day 2** | Hakodate Morning Market | Lake Toya | Lake Toya Fireworks + Onsen |
-| **Day 3** | Maruyama Zoo (Penguins) | Otaru Canal | Biei/Lavender Fields |
-| **Day 4** | Shikisai no Oka | Farm Tomita (Lavender) | Hot Spring |
-| **Day 5** | Mitsui Outlet Park | Flight to Taipei | - |
-
----
-
-## Common Phrases for Japanese Places
-
-| English | Chinese | Japanese |
-|---------|---------|----------|
-| This is... | 這是... | ここは... |
-| We will visit... | 我們將去... | いきます |
-| I want to see... | 我想看... | みたい |
-| Nice view! | 好美的景色！ | きれいですね |
-| Let's take a photo | 我們拍照吧 | 写真を撮りましょう |
-| Where is...? | 哪裡是...? | ...はどこですか |
-| How far is it? | 有多遠？ | どのくらいかかりますか |
-| It's nearby | 就在附近 | 近くにありませんか |
-
----
-
-## Fun Facts About Hokkaido Places
-
-**Hokkaido**: Named after "Hokukai" meaning "Northern Sea"
-
-**Sapporo**: Home to the world's first Snow Festival (1950)
-
-**Hakodate**: One of Japan's first ports open to foreign trade (1859)
-
-**Otaru**: Originally a coal port, now famous for glass and music boxes
-
-**Lake Toya**: A volcanic caldera lake formed 100,000 years ago
-
-**Lavender Fields**: Hokkaido produces 95% of Japan's lavender
-
-**Goryokaku**: One of the first Western-style forts in Japan
-
----
-
-*Vocabulary from Hokkaido Tour Itinerary 2026*  
-*Added: 2026-05-01*  
-*Purpose: Travel preparation and English learning*
-
-
-     1|
-     2|
-     3|### Hokkaido Summer Tour Vocabulary - Travel & Tourism (2026-05-01)
-     4|
-     5|**Source**: Best Tour Hokkaido 5-Day Summer Festival Package (SPK05BR260712FD)
-     6|
-     7|---
-     8|
-     9|## Travel Booking Vocabulary
-    10|
-    11|### 1. Guaranteed Departure (phrase) (2026-05-01)
-    12|
-    13|**Meaning**: 保證出團 (when a tour will run regardless of how many people sign up)
-    14|
-    15|**Chinese**: 保證出發 / 確定成團
-    16|
-    17|**Synonyms**: confirmed tour, assured departure, guaranteed tour
-    18|
-    19|**Antonyms**: tentative departure, subject to minimum participants
-    20|
-    21|**Example**:
-    22|- Some dates show "Guaranteed Departure" so you don't need to worry about cancellation.
-    23|- The tour operator guarantees departure for these summer dates.
-    24|- Booking a guaranteed departure gives you peace of mind.
-    25|- Unlike some tours, this one won't be cancelled due to low enrollment.
-    26|
-    27|**Tour Context**: 
-    28|- 保證出團 dates: June 9, 13, 15, 22, 23
-    29|
-    30|---
-    31|
-    32|### 2. Waitlist (n./v.) (2026-05-01)
-    33|
-    34|**Meaning**: 候補名單 (being placed in line when a tour is fully booked)
-    35|
-    36|**Chinese**: 候補名單 / 等候名單
-    37|
-    38|**Synonyms**: standby list, waiting list, queue
-    39|
-    40|**Antonyms**: confirmed booking, secured spot
-    41|
-    42|**Example**:
-    43|- If this date is sold out, you can join the waitlist.
-    44|- Being on the waitlist means you might still get a spot.
-    45|- They offered us a place on the waitlist for the popular date.
-    46|- She was promoted from the waitlist when someone cancelled.
-    47|
-    48|**Tour Context**:
-    49|- July 4 shows "可候補" (waitlist available only)
-    50|
-    51|---
-    52|
-    53|### 3. Available Seats (n. phr.) (2026-05-01)
-    54|
-    55|**Meaning**: 可售名額 (number of spots still open for booking)
-    56|
-    57|**Chinese**: 剩餘名額 / 可售席位
-    58|
-    59|**Synonyms**: remaining spots, open seats, available spaces
-    60|
-    61|**Antonyms**: sold out, full booking, no availability
-    62|
-    63|**Example**:
-    64|- There are 15 available seats for July 12.
-    65|- Check how many available seats remain before booking.
-    66|- Available seats decrease as the departure date approaches.
-    67|- Only 2 seats available for that popular departure date.
-    68|
-    69|**Tour Context**:
-    70|- Shows "可售：15" meaning 15 available seats
-    71|
-    72|---
-    73|
-    74|### 4. Installment Plan (n. phr.) (2026-05-01)
-    75|
-    76|**Meaning**: 分期付款方案 (paying for something in regular monthly payments)
-    77|
-    78|**Chinese**: 分期付款方式 / 月付方案
-    79|
-    80|**Synonyms**: payment plan, credit terms, monthly payments
-    81|
-    82|**Antonyms**: full payment, lump sum, cash upfront
-    83|
-    84|**Example**:
-    85|- They offer a 12-month installment plan for the tour.
-    86|- We chose the installment plan to spread the cost.
-    87|- The installment plan makes expensive trips more affordable.
-    88|- Each monthly installment is TWD 4,150.
-    89|
-    90|**Tour Context**:
-    91|- 12 期，TWD 4,150 起 (12 months, starting from 4,150)
-    92|
-    93|---
-    94|
-    95|### 5. Starting From (phrase) (2026-05-01)
-    96|
-    97|**Meaning**: 起價 / 最低價格 (the lowest price for a product or service)
-    98|
-    99|**Chinese**: 起價 / 最低從
-   100|
-   101|**Synonyms**: from, at, base price, from...up
-   102|
-   103|**Antonyms**: fixed price, all-inclusive, maximum price
-   104|
-   105|**Example**:
-   106|- Prices start from TWD 49,800 for this tour.
-   107|- Hotel rates start from $100 per night.
-   108|- The price starts from the base rate.
-   109|- Prices start from various levels depending on the package.
-   110|
-   111|**Tour Context**:
-   112|- "TWD 49,800 起" means starting from 49,800 TWD
-   113|
-   114|---
-   115|
-   116|## Transportation Vocabulary
-   117|
-   118|### 6. Boarding Pass (n.) (2026-05-01)
-   119|
-   120|**Meaning**: 登機證 (ticket showing flight details for boarding the plane)
-   121|
-   122|**Chinese**: 登機卡 / 飛機票證
-   123|
-   124|**Synonyms**: flight ticket, aircraft pass, boarding card
-   125|
-   126|**Antonyms**: (none - specific item)
-   127|
-   128|**Example**:
-   129|- Please show your boarding pass at security.
-   130|- You can print your boarding pass at the airport.
-   131|- Don't lose your boarding pass!
-   132|- The boarding pass shows your seat assignment.
-   133|
-   134|---
-   135|
-   136|### 7. Departure Hall (n.) (2026-05-01)
-   137|
-   138|**Meaning**: 出發大廳 (area in airport where people go before flights)
-   139|
-   140|**Chinese**: 出發層 / 離境大廳
-   141|
-   142|**Synonyms**: departure area, check-in hall, take-off zone
-   143|
-   144|**Antonyms**: arrival hall, landing zone
-   145|
-   146|**Example**:
-   147|- Meet me at the departure hall entrance.
-   148|- Check-in counters are in the departure hall.
-   149|- The departure hall has many shops and restaurants.
-   150|- Arriving at the departure hall 3 hours early is recommended.
-   151|
-   152|---
-   153|
-   154|### 8. Arrival Time (n. phr.) (2026-05-01)
-   155|
-   156|**Meaning**: 抵達時間 (when a flight or vehicle reaches its destination)
-   157|
-   158|**Chinese**: 到達時間 / 抵達時刻
-   159|
-   160|**Synonyms**: landing time, arrival, landing
-   161|
-   162|**Antonyms**: departure time, take-off time
-   163|
-   164|**Example**:
-   165|- What is our arrival time in Tokyo?
-   166|- The flight arrives at 3:10 PM local time.
-   167|- Check your arrival time carefully.
-   168|- Our arrival time is 5:10 PM.
-   169|
-   170|**Tour Context**:
-   171|- EVA Air BR116: 10:10 → 15:00
-   172|- Starlux JX850: 10:05 → 15:10
-   173|
-   174|---
-   175|
-   176|### 9. Local Time (n. phr.) (2026-05-01)
-   177|
-   178|**Meaning**: 當地時間 (the time at your destination location)
-   179|
-   180|**Chinese**: 當地時間 / 當地時鐘時間
-   181|
-   182|**Synonyms**: destination time, place time, region time
-   183|
-   184|**Antonyms**: home time, departure time, UTC
-   185|
-   186|**Example**:
-   187|- Remember to adjust to local time when you arrive.
-   188|- The flight times are shown in local time.
-   189|- What time is it in local time right now?
-   190|- Don't forget about local time differences.
-   191|
-   192|---
-   193|
-   194|## Accommodation Vocabulary
-   195|
-   196|### 10. Check-in (v./n.) (2026-05-01)
-   197|
-   198|**Meaning**: 辦理入住 (to register at a hotel and get your room key)
-   199|
-   200|**Chinese**: 入住登記 / 報到
-   201|
-   202|**Synonyms**: registration, arrival, register
-   203|
-   204|**Antonyms**: check-out, departure, leave
-   205|
-   206|**Example**:
-   207|- We can check-in after 2 PM.
-   208|- Check-in at the front desk with your passport.
-   209|- Early check-in might be available.
-   210|- Check-in time is 3:00 PM for this hotel.
-   211|
-   212|**Tour Context**:
-   213|- Day 1: Check-in to Hakodate hotel
-   214|- Days 2-4: Check-in at daily hotels
-   215|
-   216|---
-   217|
-   218|### 11. Check-out (v./n.) (2026-05-01)
-   219|
-   220|**Meaning**: 辦理退房 (to leave a hotel and pay the bill)
-   221|
-   222|**Chinese**: 退房 / 離店登記
-   223|
-   224|**Synonyms**: departure, leave, settle bill
-   225|
-   226|**Antonyms**: check-in, arrival
-   227|
-   228|**Example**:
-   229|- Check-out time is 11 AM.
-   230|- Please complete check-out before leaving.
-   231|- We need to check-out by noon.
-   232|- Last check-out was on day 5.
-   233|
-   234|---
-   235|
-   236|### 12. Equivalent Hotel (n. phr.) (2026-05-01)
-   237|
-   238|**Meaning**: 同等級飯店 (a hotel of similar quality as the primary)
-   239|
-   240|**Chinese**: 相同等級飯店 / 同等酒店
-   241|
-   242|**Synonyms**: similar hotel, alternate accommodation, same-class hotel
-   243|
-   244|**Antonyms**: luxury upgrade, budget alternative
-   245|
-   246|**Example**:
-   247|- If the main hotel is unavailable, an equivalent hotel will be assigned.
-   248|- You might stay at an equivalent hotel in some cases.
-   249|- The tour specifies either hotel or equivalent.
-   250|- Equivalent means same star rating and quality.
-   251|
-   252|**Tour Context**:
-   253|- Many hotels list "or equivalent"
-   254|
-   255|---
-   256|
-   257|### 13. Onsen (n.) (2026-05-01)
-   258|
-   259|**Meaning**: 溫泉（日本传统温泉浴场，泡温泉体验）(Japanese hot spring bath - natural mineral water bathing experience)
-   260|
-   261|**Chinese**: 溫泉 / 日語溫泉
-   262|
-   263|**Synonyms**: hot spring, bathhouse, thermal bath, natural spring
-   264|
-   265|**Antonyms**: (none - cultural term)
-   266|
-   267|**Example**:
-   268|- We're going to an onsen tonight.
-   269|- Traditional Japanese onsen experience.
-   270|- Pack swimwear for the onsen visit.
-   271|- The onsen has indoor and outdoor baths.
-   272|
-   273|**Tour Context**:
-   274|- Lake Toya onsen
-   275|- Hot spring restaurant experience
-   276|
-   277|---
-   278|
-   279|## Dining & Food Vocabulary
-   280|
-   281|### 14. Banquet (n.) (2026-05-01)
-   282|
-   283|**Meaning**: 宴會 (a large formal meal or feast)
-   284|
-   285|**Chinese**: 宴會 / 大餐 / 晚宴
-   286|
-   287|**Synonyms**: feast, dinner party, celebration meal, gala
-   288|
-   289|**Antonyms**: casual meal, snack, light meal
-   290|
-   291|**Example**:
-   292|- The crab banquet was amazing.
-   293|- We had a farewell banquet on the last night.
-   294|- The wedding banquet had 100 guests.
-   295|- They prepared a special banquet for us.
-   296|
-   297|**Tour Context**:
-   298|- 螃蟹宴 (Crab Banquet) - Day 2
-   299|
-   300|---
-   301|
-   302|### 15. Specialty (n.) (2026-05-01)
-   303|
-   304|**Meaning**: 特產 / 特色料理 (special food or product unique to a region)
-   305|
-   306|**Chinese**: 特色美食 / 專賣品 / 特產
-   307|
-   308|**Synonyms**: regional speciality, local specialty, signature dish
-   309|
-   310|**Antonyms**: ordinary food, regular dish, common meal
-   311|
-   312|**Example**:
-   313|- Hokkaido crabs are a local specialty.
-   314|- The melon specialty restaurant was unique.
-   315|- Try the regional specialty when you visit.
-   316|- This city is known for its pastry specialty.
-   317|
-   318|**Tour Context**:
-   319|- 哈密瓜料理 (Melon speciality)
-   320|
-   321|---
-   322|
-   323|### 16. Buffet (n.) (2026-05-01)
-   324|
-   325|**Meaning**: 自助餐 (restaurant style where you serve yourself from various dishes)
-   326|
-   327|**Chinese**: 自助餐廳 /  buffet 餐
-   328|
-   329|**Synonyms**: self-service meal, all-you-can-eat, open dining
-   330|
-   331|**Antonyms**: set menu, à la carte, plated service
-   332|
-   333|**Example**:
-   334|- The hotel offers a buffet breakfast.
-   335|- We enjoyed the seafood buffet.
-   336|- The buffet has many international cuisines.
-   337|- Unlimited buffet dinner is included.
-   338|
-   339|---
-   340|
-   341|### 17. Dietary Requirements (n. phr.) (2026-05-01)
-   342|
-   343|**Meaning**: 飲食需求 (special dietary needs or restrictions)
-   344|
-   345|**Chinese**: 飲食需求 / 特殊飲食需求 / 忌口
-   346|
-   347|**Synonyms**: food restrictions, dietary needs, special diet
-   348|
-   349|**Antonyms**: no restrictions, regular diet, standard meals
-   350|
-   351|**Example**:
-   352|- Please inform us of dietary requirements in advance.
-   353|- Vegetarian dietary requirements are available.
-   354|- They asked about dietary requirements before booking.
-   355|- The hotel accommodates dietary requirements.
-   356|
-   357|**Tour Context**:
-   358|- "Please inform in advance" mentioned in notes
-   359|
-   360|---
-   361|
-   362|## Activities & Attractions
-   363|
-   364|### 18. Parade (n./v.) (2026-05-01)
-   365|
-   366|**Meaning**: 遊行 (organized public processional event)
-   367|
-   368|**Chinese**: 遊行 / 列隊遊行 / 表演遊園
-   369|
-   370|**Synonyms**: procession, demonstration, ceremonial walk, march
-   371|
-   372|**Antonyms**: (none - specific event type)
-   373|
-   374|**Example**:
-   375|- The penguin parade is cute to watch.
-   376|- There's a parade every day at the zoo.
-   377|- The parade features decorated floats.
-   378|- We attended the summer parade.
-   379|
-   380|**Tour Context**:
-   381|- 企鵝遊行 (Penguin Parade) - Day 3
-   382|
-   383|---
-   384|
-   385|### 19. Sightseeing (n.) (2026-05-01)
-   386|
-   387|**Meaning**: 觀光 / 遊覽 (touring places of interest as a visitor)
-   388|
-   389|**Chinese**: 觀光 / 遊覽景點 / 遊覽
-   390|
-   391|**Synonyms**: tourism, touring, visiting attractions, sight tours
-   392|
-   393|**Antonyms**: (none - specific activity)
-   394|
-   395|**Example**:
-   396|- We spent the day sightseeing in the old town.
-   397|- Sightseeing tours include many famous landmarks.
-   398|- Best time for sightseeing is early morning.
-   399|- Our sightseeing itinerary is full and exciting.
-   400|
-   401|---
-   402|
-   403|### 20. Evening View (n. phr.) (2026-05-01)
-   404|
-   405|**Meaning**: 夜景 (scenic view of a city or place at night)
-   406|
-   407|**Chinese**: 夜景 / 夕照 / 夜晚景色
-   408|
-   409|**Synonyms**: night view, city lights, evening panorama, nighttime scenery
-   410|
-   411|**Antonyms**: daytime view, daylight scenery
-   412|
-   413|**Example**:
-   414|- Hakodate has one of Japan's best evening views.
-   415|- We went up the mountain for the evening view.
-   416|- The evening view is more romantic than daytime.
-   417|- Don't miss the evening view from the observatory.
-   418|
-   419|**Tour Context**:
-   420|- 函館夜景 (Hakodate Night View)
-   421|
-   422|---
-   423|
-   424|### 21. Photo Opportunities (n. phr.) (2026-05-01)
-   425|
-   426|**Meaning**: 攝影機會 / 拍照地點 (places suitable for taking photos)
-   427|
-   428|**Chinese**: 拍攝機會 / 取景地點 / 拍照景點
-   429|
-   430|**Synonyms**: photo spots, photo-worthy locations, photography spots
-   431|
-   432|**Antonyms**: (none - positive term)
-   433|
-   434|**Example**:
-   435|- There are many photo opportunities at the lavender fields.
-   436|- The canal provides excellent photo opportunities.
-   437|- Don't miss these photo opportunities.
-   438|- Best photo opportunities are during golden hour.
-   439|
-   440|**Tour Context**:
-   441|- Lavender fields, canal, hot springs
-   442|
-   443|---
-   444|
-   445|## Shopping & Souvenirs
-   446|
-   447|### 22. Souvenirs (n.) (2026-05-01)
-   448|
-   449|**Meaning**: 紀念品 (objects bought as mementos of a place or event)
-   450|
-   451|**Chinese**: 紀念品 / 伴手禮 / 小禮物
-   452|
-   453|**Synonyms**: mementos, keepsakes, gifts, tokens, souvenirs
-   454|
-   455|**Antonyms**: everyday purchases, essential items
-   456|
-   457|**Example**:
-   458|- I bought some souvenirs for my family.
-   459|- Each region has unique souvenirs.
-   460|- The souvenir shop has many Japan products.
-   461|- Local souvenirs make great gift ideas.
-   462|
-   463|---
-   464|
-   465|### 23. Outlet (n.) (2026-05-01)
-   466|
-   467|**Meaning**: outlet mall (store where branded goods are sold at discounted prices)
-   468|
-   469|**Chinese**: 名牌折扣店 / 特賣場 / outlet 商城
-   470|
-   471|**Synonyms**: discount store, factory outlet, bargain store
-   472|
-   473|**Antonyms**: luxury boutique, full-price store
-   474|
-   475|**Example**:
-   476|- We spent hours at the outlet shopping.
-   477|- Outlet stores often have great deals.
-   478|- The Mitsui Outlet has many popular brands.
-   479|- Outlet shopping saves money on brand items.
-   480|
-   481|**Tour Context**:
-   482|- Mitsui Outlet Park - Day 5
-   483|
-   484|---
-   485|
-   486|### 24. Last-Minute Shopping (n. phr.) (2026-05-01)
-   487|
-   488|**Meaning**: 最後一刻購物 (shopping done just before departure)
-   489|
-   490|**Chinese**: 最後購物 / 離境前購物
-   491|
-   492|**Synonyms**: final shopping, pre-departure shopping, last chance shopping
-   493|
-   494|**Antonyms**: advance shopping, early preparation
-   495|
-   496|**Example**:
-   497|- We did last-minute shopping at the airport.
-   498|- Last-minute shopping can be expensive.
-   499|- The outlet is great for last-minute shopping.
-   500|- Remember to allow time for last-minute shopping.
-   501|
+*Total Vocabulary Entries: 52 (31 Karpathy AI + 21 Japanese Travel)*
+*Last Updated: 2026-05-01*
